@@ -1,0 +1,8 @@
+# Game output folder
+game/
+
+# Build products
+bin/
+
+# macOS Files
+.DS_Store
